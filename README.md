@@ -24,3 +24,7 @@ patch에는 여러타입이 존재한다.
 
 #### patch
 루트노드와 patches를 전달하여 Real DOM을 업데이트 한다.
+
+## Reference
+- [Virtual-DOM](https://github.com/Matt-Esch/virtual-dom)
+- [Simple-Virtual-DOM](https://github.com/livoras/simple-virtual-dom)
