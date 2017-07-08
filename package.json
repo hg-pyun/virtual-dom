@@ -1,0 +1,19 @@
+{
+  "name": "virtual-dom",
+  "version": "1.0.0",
+  "description": "study for virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haegul/virtual-dom.git"
+  },
+  "author": "Haegul, Pyun(phg2491@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haegul/virtual-dom/issues"
+  },
+  "homepage": "https://github.com/haegul/virtual-dom#readme"
+}
